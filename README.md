@@ -1,7 +1,7 @@
-# crud-sequelize-mysql
-Fontes do tutorial de CRUD com Node.js, Sequelize e MySQL.
+# crud-sequelize-postgresql
+Fontes do tutorial de CRUD com Node.js, Sequelize e PostgreSQL.
 
-Link do tutorial: https://www.luiztools.com.br/post/tutorial-de-crud-com-node-js-sequelize-e-mysql/
+Link do tutorial: https://www.luiztools.com.br/post/tutorial-de-crud-com-node-js-sequelize-e-postgresql/
 
 Meus cursos: https://www.luiztools.com.br/meus-cursos
 
